@@ -3,7 +3,7 @@
 
 <h2>⚡Sobre:</h2>
 
-Programa feito em java para Conectar Banco de Dados, uso de metodos como Inserir, Deletar, Selecionar e Alterar.
+Programa feito em java para Conectar Banco de Dados com Crud Completo ( Inserir, Deletar, Alterar, Selecionar ).
 
 <h2>🛠Tecnologias:</h2>
 <div>
